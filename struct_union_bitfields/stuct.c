@@ -12,6 +12,9 @@ int main(){
 
 	struct test t1;
 
+
+///  testing
+///
 	printf("size of Structure test is %ld\n", sizeof(t1));
 
 	
